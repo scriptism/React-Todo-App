@@ -2,6 +2,9 @@
 
 ![Todo App Preview](https://i.imgur.com/J5q6![facebooky](https://github.com/user-attachments/assets/a549e408-5b5b-4508-a073-e41968fe9bab)
 W7A.png) *← Add your screenshot URL here*
+<img width="1126" height="1074" alt="icon" src="https://github.com/user-attachments/assets/514144ae-d8c0-4139-933c-fabcbaa05b1d" />
+
+
 
 A sleek, responsive todo application built with **React** and **Tailwind CSS**.
 
