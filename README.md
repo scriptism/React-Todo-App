@@ -1,6 +1,7 @@
 # Modern Todo App  
 
-![Todo App Preview](https://i.imgur.com/J5q6W7A.png) *← Add your screenshot URL here*
+![Todo App Preview](https://i.imgur.com/J5q6![facebooky](https://github.com/user-attachments/assets/a549e408-5b5b-4508-a073-e41968fe9bab)
+W7A.png) *← Add your screenshot URL here*
 
 A sleek, responsive todo application built with **React** and **Tailwind CSS**.
 
