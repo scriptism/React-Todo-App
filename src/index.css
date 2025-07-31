@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@keyframes ping-once {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.5);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+.animate-ping-once {
+  animation: ping-once 0.5s ease;
+}
