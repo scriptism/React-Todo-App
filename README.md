@@ -17,13 +17,6 @@ A sleek, responsive todo application built with **React** and **Tailwind CSS**.
   <img src="https://img.shields.io/badge/React_Icons-FF4154?logo=react" alt="React Icons">
 </p>
 
-
-## Usage  
-
-1. Type tasks in the input field  
-2. Click ✅ to mark complete  
-3. Click ✏️ to edit or 🗑️ to delete  
-
 ```javascript
 // Example component code
 <TodoItem 
