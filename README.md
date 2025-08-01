@@ -12,9 +12,7 @@ A sleek, responsive todo application built with **React** and **Tailwind CSS**.
 ✔️ Persistent storage (localStorage)  
 ✔️ Smooth animations  
 ✔️ Mobile-friendly design  
-<p align="right">
-  <img src="https://github.com/user-attachments/assets/b2d89f0f-6d04-4642-9c8c-fc5e970b9090" width="300" alt="Todo App Preview">
-</p>
+<img src="https://github.com/user-attachments/assets/b2d89f0f-6d04-4642-9c8c-fc5e970b9090" width="300" alt="Todo App Preview" style="float: right; margin-left: 10px;">
 ## Tech  
 
 <p align="left">
