@@ -1,6 +1,6 @@
 # Modern Todo App  
 
-![Todo App Preview] ![Todo](https://github.com/user-attachments/assets/b2d89f0f-6d04-4642-9c8c-fc5e970b9090)*← 
+<img src="https://github.com/user-attachments/assets/b2d89f0f-6d04-4642-9c8c-fc5e970b9090" width="300" alt="Todo App Preview">
 
 
 A sleek, responsive todo application built with **React** and **Tailwind CSS**.
