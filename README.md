@@ -9,6 +9,7 @@ A sleek, responsive todo application built with **React** and **Tailwind CSS**.
 ✔️ Smooth animations  
 ✔️ Mobile-friendly design  
 <img src="https://github.com/user-attachments/assets/b2d89f0f-6d04-4642-9c8c-fc5e970b9090" width="300" alt="Todo App Preview" style="float: right; margin-left: 10px;">
+<br/>
 <a href="https://scriptism.github.io/React-Todo-App/"><img src="https://img.shields.io/badge/-View%20LiveDemo-blue"></a> 
 
 ## Tech  
