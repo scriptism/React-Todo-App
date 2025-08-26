@@ -1,5 +1,5 @@
 # Modern Todo App  
-A sleek, responsive todo application built with **React** and **Tailwind CSS**.
+## A sleek, responsive todo application built with **React** and **Tailwind CSS**.
 
 ## Features  
 
