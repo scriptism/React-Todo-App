@@ -21,8 +21,4 @@
 </p>
 
 ```javascript
-// Example component code
-<TodoItem 
-  task={task} 
-  onToggle={toggleComplete} 
-/>
+
