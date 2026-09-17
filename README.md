@@ -2,7 +2,6 @@
 ## A sleek, responsive todo application built with **React** and **Tailwind CSS**.
 
 ## Features  
-
 ✔️ Add, edit, and delete tasks  
 ✔️ Toggle task completion  
 ✔️ Persistent storage (localStorage)  
