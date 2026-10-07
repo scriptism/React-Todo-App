@@ -11,8 +11,7 @@
 <br/>
 <a href="https://scriptism.github.io/React-Todo-App/"><img src="https://img.shields.io/badge/-View%20LiveDemo-blue"></a> 
 
-## Tech  
-
+## Tech 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?logo=react" alt="React">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css" alt="Tailwind CSS">
